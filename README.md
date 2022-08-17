@@ -9,8 +9,10 @@ Esse projeto consiste em desenvolver as minhas habilidades como programador.
 👩‍💻Como os usuários podem utilizá-lo:<br />
 O codigo-fonte está disponivel, caso queira executar o projeto é uma ótima oportunidade de melhora-lo, cada uma das linhas é comentada trazendo um melhor entendimento do codigo.
 
-📲ScreenShots
+📲ScreenShots<br />
+
 ![TheNotes01](https://user-images.githubusercontent.com/85421640/185173961-2881afb2-594c-4daf-b8f4-86d648a109b6.png)
+
 ![TheNotes2](https://user-images.githubusercontent.com/85421640/185173996-55f58aff-967b-4436-b9cb-270a09540b4f.png)
 
 
